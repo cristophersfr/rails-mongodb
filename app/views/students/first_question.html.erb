@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th> Dept </th>
+    <th> Crs Num </th>
+    <th> # Enrolled </th>
+  </tr>
+  <% @q1.each do |doc| %>
+      <tr>
+        <td><%= doc["dept"] %></td>
+        <td><%= doc["crs_num"] %></td>
+        <td><%= doc["enrolled"] %></td>
+      </tr>
+  <% end %>
+</table>

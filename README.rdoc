@@ -1,0 +1,10 @@
+== ITE 451 Assignment 9
+
+==== Name: Cristopher de Sousa Freitas
+
+===== Description:
+
+Create a Rails app that utilizes the MongoDB aggregation pipeline to an-
+swer the following queries.
+
+
