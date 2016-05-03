@@ -4,7 +4,6 @@
 
 ===== Description:
 
-Create a Rails app that utilizes the MongoDB aggregation pipeline to an-
-swer the following queries.
+Create a Rails app that utilizes the MongoDB aggregation pipeline to answer the following queries.
 
 
